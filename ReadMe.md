@@ -17,7 +17,6 @@ I used these files as allowed by Microsoft as a template for my project
 to be built upon.
 
 //------------------------------------------------------------------------------
-// <copyright file="MainWindow.xaml.cs" company="Microsoft">
+// Copyright file="MainWindow.xaml.cs" company="Microsoft"
 //     Copyright (c) Microsoft Corporation.  All rights reserved.
-// </copyright>
 //------------------------------------------------------------------------------
