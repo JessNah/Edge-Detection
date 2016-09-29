@@ -16,7 +16,8 @@ the Kinect toolkit/browser once installing the Kinect for Windows v2.
 I used these files as allowed by Microsoft as a template for my project
 to be built upon.
 
-//------------------------------------------------------------------------------
-// Copyright file="MainWindow.xaml.cs" company="Microsoft"
-//     Copyright (c) Microsoft Corporation.  All rights reserved.
-//------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------
+Copyright file="MainWindow.xaml.cs" company="Microsoft"
+Copyright (c) Microsoft Corporation.  All rights reserved.
+------------------------------------------------------------------------------
