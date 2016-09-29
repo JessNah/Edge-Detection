@@ -19,5 +19,4 @@ to be built upon.
 
 ------------------------------------------------------------------------------
 Copyright file="MainWindow.xaml.cs" company="Microsoft"
-Copyright Microsoft Corporation.  All rights reserved.
 ------------------------------------------------------------------------------
