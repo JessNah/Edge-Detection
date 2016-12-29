@@ -1,0 +1,32 @@
+C:\Users\Jessica Nahulan\Documents\GitHub\EdgeDetection\Barcode Reader\bin\Debug\Edge Detection.exe.config
+C:\Users\Jessica Nahulan\Documents\GitHub\EdgeDetection\Barcode Reader\obj\Debug\Edge Detection.csprojResolveAssemblyReference.cache
+C:\Users\Jessica Nahulan\Documents\GitHub\EdgeDetection\Barcode Reader\obj\Debug\barcodeReader.MainForm.resources
+C:\Users\Jessica Nahulan\Documents\GitHub\EdgeDetection\Barcode Reader\obj\Debug\Demo.Properties.Resources.resources
+C:\Users\Jessica Nahulan\Documents\GitHub\EdgeDetection\Barcode Reader\obj\Debug\Edge Detection.csproj.GenerateResource.Cache
+C:\Users\Jessica Nahulan\Documents\GitHub\EdgeDetection\Barcode Reader\bin\Debug\Edge Detection.exe.manifest
+C:\Users\Jessica Nahulan\Documents\GitHub\EdgeDetection\Barcode Reader\bin\Debug\Edge Detection.application
+C:\Users\Jessica Nahulan\Documents\GitHub\EdgeDetection\Barcode Reader\bin\Debug\Edge Detection.exe
+C:\Users\Jessica Nahulan\Documents\GitHub\EdgeDetection\Barcode Reader\bin\Debug\Edge Detection.pdb
+C:\Users\Jessica Nahulan\Documents\GitHub\EdgeDetection\Barcode Reader\bin\Debug\Touchless.Vision.pdb
+C:\Users\Jessica Nahulan\Documents\GitHub\EdgeDetection\Barcode Reader\bin\Debug\WebCamLib.pdb
+C:\Users\Jessica Nahulan\Documents\GitHub\EdgeDetection\Barcode Reader\obj\Debug\Edge Detection.TrustInfo.xml
+C:\Users\Jessica Nahulan\Documents\GitHub\EdgeDetection\Barcode Reader\obj\Debug\Edge Detection.exe.manifest
+C:\Users\Jessica Nahulan\Documents\GitHub\EdgeDetection\Barcode Reader\obj\Debug\Edge Detection.application
+C:\Users\Jessica Nahulan\Documents\GitHub\EdgeDetection\Barcode Reader\obj\Debug\Edge Detection.exe
+C:\Users\Jessica Nahulan\Documents\GitHub\EdgeDetection\Barcode Reader\obj\Debug\Edge Detection.pdb
+C:\Users\Jessica Nahulan\Documents\GitHub\EdgeDetection\Edge Detection\bin\Debug\Edge Detection.exe.config
+C:\Users\Jessica Nahulan\Documents\GitHub\EdgeDetection\Edge Detection\obj\Debug\Edge Detection.exe
+C:\Users\Jessica Nahulan\Documents\GitHub\EdgeDetection\Edge Detection\obj\Debug\Edge Detection.pdb
+C:\Users\Jessica Nahulan\Documents\GitHub\EdgeDetection\Edge Detection\bin\Debug\Edge Detection.exe.manifest
+C:\Users\Jessica Nahulan\Documents\GitHub\EdgeDetection\Edge Detection\bin\Debug\Edge Detection.application
+C:\Users\Jessica Nahulan\Documents\GitHub\EdgeDetection\Edge Detection\bin\Debug\Edge Detection.exe
+C:\Users\Jessica Nahulan\Documents\GitHub\EdgeDetection\Edge Detection\bin\Debug\Edge Detection.pdb
+C:\Users\Jessica Nahulan\Documents\GitHub\EdgeDetection\Edge Detection\bin\Debug\Touchless.Vision.pdb
+C:\Users\Jessica Nahulan\Documents\GitHub\EdgeDetection\Edge Detection\bin\Debug\WebCamLib.pdb
+C:\Users\Jessica Nahulan\Documents\GitHub\EdgeDetection\Edge Detection\obj\Debug\Edge Detection.csprojResolveAssemblyReference.cache
+C:\Users\Jessica Nahulan\Documents\GitHub\EdgeDetection\Edge Detection\obj\Debug\barcodeReader.MainForm.resources
+C:\Users\Jessica Nahulan\Documents\GitHub\EdgeDetection\Edge Detection\obj\Debug\Demo.Properties.Resources.resources
+C:\Users\Jessica Nahulan\Documents\GitHub\EdgeDetection\Edge Detection\obj\Debug\Edge Detection.csproj.GenerateResource.Cache
+C:\Users\Jessica Nahulan\Documents\GitHub\EdgeDetection\Edge Detection\obj\Debug\Edge Detection.TrustInfo.xml
+C:\Users\Jessica Nahulan\Documents\GitHub\EdgeDetection\Edge Detection\obj\Debug\Edge Detection.exe.manifest
+C:\Users\Jessica Nahulan\Documents\GitHub\EdgeDetection\Edge Detection\obj\Debug\Edge Detection.application

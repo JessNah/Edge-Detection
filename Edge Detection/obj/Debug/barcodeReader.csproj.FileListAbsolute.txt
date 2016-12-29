@@ -1,0 +1,45 @@
+C:\Users\Jessica Nahulan\Desktop\Barcode Reader\Barcode Reader\bin\Debug\Touchless.Vision.dll
+C:\Users\Jessica Nahulan\Desktop\Barcode Reader\Barcode Reader\bin\Debug\zxing.dll
+C:\Users\Jessica Nahulan\Desktop\Barcode Reader\Barcode Reader\bin\Debug\WebCamLib.dll
+C:\Users\Jessica Nahulan\Desktop\Barcode Reader\Barcode Reader\bin\Debug\Touchless.Vision.pdb
+C:\Users\Jessica Nahulan\Desktop\Barcode Reader\Barcode Reader\bin\Debug\zxing.pdb
+C:\Users\Jessica Nahulan\Desktop\Barcode Reader\Barcode Reader\bin\Debug\zxing.xml
+C:\Users\Jessica Nahulan\Desktop\Barcode Reader\Barcode Reader\bin\Debug\WebCamLib.pdb
+C:\Users\Jessica Nahulan\Desktop\Barcode Reader\Barcode Reader\obj\Debug\barcodeReader.csprojResolveAssemblyReference.cache
+C:\Users\Jessica Nahulan\Desktop\Barcode Reader\Barcode Reader\obj\Debug\Demo.Properties.Resources.resources
+C:\Users\Jessica Nahulan\Desktop\Barcode Reader\Barcode Reader\obj\Debug\barcodeReader.csproj.GenerateResource.Cache
+C:\Users\Jessica Nahulan\Desktop\Barcode Reader\Barcode Reader\obj\Debug\barcodeReader.MainForm.resources
+C:\Users\Jessica Nahulan\Desktop\Barcode Reader\Barcode Reader\bin\Debug\Barcode Reader.exe.config
+C:\Users\Jessica Nahulan\Desktop\Barcode Reader\Barcode Reader\bin\Debug\Barcode Reader.exe.manifest
+C:\Users\Jessica Nahulan\Desktop\Barcode Reader\Barcode Reader\bin\Debug\Barcode Reader.application
+C:\Users\Jessica Nahulan\Desktop\Barcode Reader\Barcode Reader\bin\Debug\Barcode Reader.exe
+C:\Users\Jessica Nahulan\Desktop\Barcode Reader\Barcode Reader\bin\Debug\Barcode Reader.pdb
+C:\Users\Jessica Nahulan\Desktop\Barcode Reader\Barcode Reader\obj\Debug\Barcode Reader.TrustInfo.xml
+C:\Users\Jessica Nahulan\Desktop\Barcode Reader\Barcode Reader\obj\Debug\Barcode Reader.exe.manifest
+C:\Users\Jessica Nahulan\Desktop\Barcode Reader\Barcode Reader\obj\Debug\Barcode Reader.application
+C:\Users\Jessica Nahulan\Desktop\Barcode Reader\Barcode Reader\obj\Debug\Barcode Reader.exe
+C:\Users\Jessica Nahulan\Desktop\Barcode Reader\Barcode Reader\obj\Debug\Barcode Reader.pdb
+C:\Users\Jessica Nahulan\Documents\GitHub\BarcodeReader\Barcode Reader\bin\Debug\Barcode Reader.exe.config
+C:\Users\Jessica Nahulan\Documents\GitHub\BarcodeReader\Barcode Reader\bin\Debug\Barcode Reader.exe.manifest
+C:\Users\Jessica Nahulan\Documents\GitHub\BarcodeReader\Barcode Reader\bin\Debug\Barcode Reader.application
+C:\Users\Jessica Nahulan\Documents\GitHub\BarcodeReader\Barcode Reader\bin\Debug\Barcode Reader.exe
+C:\Users\Jessica Nahulan\Documents\GitHub\BarcodeReader\Barcode Reader\bin\Debug\Barcode Reader.pdb
+C:\Users\Jessica Nahulan\Documents\GitHub\BarcodeReader\Barcode Reader\bin\Debug\Touchless.Vision.dll
+C:\Users\Jessica Nahulan\Documents\GitHub\BarcodeReader\Barcode Reader\bin\Debug\zxing.dll
+C:\Users\Jessica Nahulan\Documents\GitHub\BarcodeReader\Barcode Reader\bin\Debug\WebCamLib.dll
+C:\Users\Jessica Nahulan\Documents\GitHub\BarcodeReader\Barcode Reader\bin\Debug\Touchless.Vision.pdb
+C:\Users\Jessica Nahulan\Documents\GitHub\BarcodeReader\Barcode Reader\bin\Debug\zxing.pdb
+C:\Users\Jessica Nahulan\Documents\GitHub\BarcodeReader\Barcode Reader\bin\Debug\zxing.xml
+C:\Users\Jessica Nahulan\Documents\GitHub\BarcodeReader\Barcode Reader\bin\Debug\WebCamLib.pdb
+C:\Users\Jessica Nahulan\Documents\GitHub\BarcodeReader\Barcode Reader\obj\Debug\barcodeReader.csprojResolveAssemblyReference.cache
+C:\Users\Jessica Nahulan\Documents\GitHub\BarcodeReader\Barcode Reader\obj\Debug\barcodeReader.MainForm.resources
+C:\Users\Jessica Nahulan\Documents\GitHub\BarcodeReader\Barcode Reader\obj\Debug\Demo.Properties.Resources.resources
+C:\Users\Jessica Nahulan\Documents\GitHub\BarcodeReader\Barcode Reader\obj\Debug\barcodeReader.csproj.GenerateResource.Cache
+C:\Users\Jessica Nahulan\Documents\GitHub\BarcodeReader\Barcode Reader\obj\Debug\Barcode Reader.TrustInfo.xml
+C:\Users\Jessica Nahulan\Documents\GitHub\BarcodeReader\Barcode Reader\obj\Debug\Barcode Reader.exe.manifest
+C:\Users\Jessica Nahulan\Documents\GitHub\BarcodeReader\Barcode Reader\obj\Debug\Barcode Reader.application
+C:\Users\Jessica Nahulan\Documents\GitHub\BarcodeReader\Barcode Reader\obj\Debug\Barcode Reader.exe
+C:\Users\Jessica Nahulan\Documents\GitHub\BarcodeReader\Barcode Reader\obj\Debug\Barcode Reader.pdb
+C:\Users\Jessica Nahulan\Documents\GitHub\EdgeDetection\Barcode Reader\bin\Debug\Barcode Reader.exe.config
+C:\Users\Jessica Nahulan\Documents\GitHub\EdgeDetection\Barcode Reader\obj\Debug\Barcode Reader.exe
+C:\Users\Jessica Nahulan\Documents\GitHub\EdgeDetection\Barcode Reader\obj\Debug\Barcode Reader.pdb
